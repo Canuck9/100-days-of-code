@@ -6,3 +6,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 2: June 13, 2020 Saturday
+
+**Today's Progress**: Completed Code 101 through Code Fellows in Seattle. Fantastic course, focused on HTML, and CSS...along with the fundamentals of software development
+
+**Thoughts** Awesome course
+
+**Link(s) to work**
+1. Portfolio (https://Cheeseburger-DIY--dougpfeffer.repl.co)
