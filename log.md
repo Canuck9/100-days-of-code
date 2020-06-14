@@ -15,3 +15,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://Cheeseburger-DIY--dougpfeffer.repl.co)
+
+### Day 3: June 14, 2020 Sunday
+
+**Today's Progress**: Completed the Basic CSS postion on the Free Code Camp site. 
+
+**Thoughts** Really enjoyed the CSS piece.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
