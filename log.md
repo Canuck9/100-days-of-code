@@ -24,3 +24,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 4: June 15, 2020 Monday
+
+**Today's Progress**: Completed the CSS Applied Visual Design portion of the Responsive Web Design Certification at FreeCodeCamp
+
+**Thoughts** Really digging Front End design, and how left brain it feels.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
