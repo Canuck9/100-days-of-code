@@ -42,3 +42,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 6: June 17, 2020 Wednesday
+
+**Today's Progress**: Completed the Responsive Web Design Principles, CSS Flexbox and CSS Grid portions of Responsive Web Design Certification. 
+
+**Thoughts** This one was fun
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
