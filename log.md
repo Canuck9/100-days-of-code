@@ -33,3 +33,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 5: June 16, 2020 Tuesday
+
+**Today's Progress**: Completed the HTML Applied Accessibility portion of the Responsive Web Design Certification at FreeCodeCamp, plus a quick github tutorial.
+
+**Thoughts** Slow is fast...fast is smooth
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
