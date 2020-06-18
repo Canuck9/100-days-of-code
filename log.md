@@ -51,3 +51,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 7: June 17, 2020 Thursday
+
+**Today's Progress**: Worked on my Tribute Project at Free Code Camp.....hard
+
+**Thoughts** Tough
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
