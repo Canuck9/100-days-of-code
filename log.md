@@ -52,7 +52,7 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
-### Day 7: June 17, 2020 Thursday
+### Day 7: June 18, 2020 Thursday
 
 **Today's Progress**: Worked on my Tribute Project at Free Code Camp.....hard
 
@@ -60,3 +60,13 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 8: June 19, 2020 Friday
+
+**Today's Progress**: Completed my Tribute Project at Free Code Camp. And loaded up on my Codepen page. This led to me creating y codepen portfolio page.
+
+**Thoughts** Not too bad, but I'm already intimidated by next project to work on. We shall see.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+2. Codepen (https://codepen.io/dougpfeffer-alt/pens/popular)
