@@ -70,3 +70,12 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 2. Codepen (https://codepen.io/dougpfeffer-alt/pens/popular)
+
+### Day 9: June 20, 2020 Saturday
+
+**Today's Progress**: Started work on my Survey Project at Free Code Camp. 
+
+**Thoughts** The devil is in the details
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
