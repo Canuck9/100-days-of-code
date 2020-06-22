@@ -79,3 +79,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 10: June 21, 2020 Sunday
+
+**Today's Progress**: Completed my Survey Project at Free Code Camp. 
+
+**Thoughts** It passed all the tests, but I'm not happy with the outcome. I'm going to teak tomorrow
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
