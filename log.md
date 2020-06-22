@@ -88,3 +88,13 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 11: June 22, 2020 Monday
+
+**Today's Progress**: Completed my Survey Project at Free Code Camp. 
+
+**Thoughts** Perseverance has paid off. I fixed the issues that were bigging me, and my survey form now looks a lot cleaner.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
