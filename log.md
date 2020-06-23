@@ -98,3 +98,12 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
+### Day 12: June 23, 2020 Tuesday
+
+**Today's Progress**: Started my Product Landing Page Project at Free Code Camp. 
+
+**Thoughts** This one seems tough....lots of details, and new stuff to learn if I want to make it solid.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
