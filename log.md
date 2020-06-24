@@ -107,3 +107,12 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
+### Day 13: June 24, 2020 Wednesday
+
+**Today's Progress**: Continued work on my Product Landing Page Project at Free Code Camp. 
+
+**Thoughts** Ok, so I cleared all of the tests. Of note, a bunch of fails were due to requirements that seemed to have bled over from the previous project. No worries, I just added them to my page. Except now, my page looks like crap. Attending to CSS tomorrow.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
