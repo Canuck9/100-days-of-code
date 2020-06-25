@@ -116,3 +116,12 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
+### Day 14: June 25, 2020 Thursday
+
+**Today's Progress**: Finbished up my Product Landing Page Project, and began my Technical Documentation Page Project at Free Code Camp. 
+
+**Thoughts** Ok, so I cleared all of the tests. Still not what I wanted....but it did clear the tests. New project started.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
