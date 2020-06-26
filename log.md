@@ -125,3 +125,12 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
+### Day 15: June 26, 2020 Friday
+
+**Today's Progress**: Completed my Technical Documentation Page Project at Free Code Camp. 
+
+**Thoughts** Ok, so I cleared all of the tests. Of note, a bunch of fails were due to requirements that seemed to have bled over from the previous project. This is nort the first time. Except that this time, I just skiped those requirements. I also went over the Advanced TypeScript Types Cheat Sheet provide at FCC.
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
