@@ -134,3 +134,12 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
+### Day 16: June 27, 2020 Saturday
+
+**Today's Progress**: Completed my Responsive Web Design Certification, and began my Javascript Algorithms and Data Structures Certification at Free Code Camp. 
+
+**Thoughts** Done
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
