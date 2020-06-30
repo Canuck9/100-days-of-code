@@ -152,3 +152,20 @@
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
 
+### Day 18: June 27, 2020 Monday
+
+**Today's Progress**: Worked on my Javascript Algorithms and Data Structures Certification at Free Code Camp. 
+
+**Thoughts** JS might not be so bad afterall
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 19: June 27, 2020 Tuesday
+
+**Today's Progress**: Worked on my Javascript Algorithms and Data Structures Certification at Free Code Camp. 
+
+**Thoughts** JS might not be so bad afterall
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
