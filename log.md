@@ -187,3 +187,12 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 22: July 3, 2020 Friday
+
+**Today's Progress**: Completed the Basic Javascript portion of my Javascript Algorithms and Data Structures Certification at Free Code Camp. 
+
+**Thoughts** JS might not be so bad afterall
+
+**Link(s) to work**
+1. Portfolio (https://www.freecodecamp.org/canuck9)
