@@ -196,3 +196,11 @@
 
 **Link(s) to work**
 1. Portfolio (https://www.freecodecamp.org/canuck9)
+
+### Day 23: July 4, 2020 Saturday
+
+**Today's Progress**: In preparation for starting Code 102 at Code Fellows, took a quick HTML and CSS test, and began reviewing HTML at w3schools.com
+
+**Thoughts** Did better on my CSS test than my HTML test, but there was not that I haven't covered yet. Looking forward to school starting Monday.
+
+**Link(s) to work**
