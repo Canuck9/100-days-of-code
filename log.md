@@ -204,3 +204,10 @@
 **Thoughts** Did better on my CSS test than my HTML test, but there was not that I haven't covered yet. Looking forward to school starting Monday.
 
 **Link(s) to work**
+
+### Day 24: July 5, 2020 Sunday
+
+**Today's Progress**: Completed the HTML Review and all HTML exercises at w3schools.comin preparation for CODE 102 at Code Fellows
+
+**Thoughts** Feeling good
+**Link(s) to work**
